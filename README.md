@@ -80,8 +80,8 @@ On the DHCP manager, right-click on the domain name, click authorize, right-clic
 ![alt text](https://github.com/bqazi/home_lab_vb/blob/main/images/DHCP.png) <br />
 ### 5.2 Create a sample of 1000 users in Active Directory using a PowerShell script
 Open Microsoft Edge in the VM, paste this link, download, and unzip the contents in the directory. Navigate to start, Windows PowerShell, right-click PowerShell ISE, more, run as administrator, and select yes. Click on the “Open Script” file icon within PowerShell, navigate to the downloaded file, select “1_CREATE_USERS,” and open. In the command line, enter “Set-ExecutionPolicy Unrestricted” to enable execution of all scripts, and select “yes to all.”  Navigate to the directory holding the script. In this case, it’s “cd C:\Users\a-derickson\Downloads\AD_PS-master”
-![alt text](https://github.com/bqazi/home_lab_vb/blob/main/images/script_image_1.png) <br />
-Click the green play button at the top, run the script, and wait until all the users have been created.
+![alt text](https://github.com/bqazi/home_lab_vb/blob/main/images/script_image_1.png) <br /> <br /> 
+Click the green play button at the top, run the script, and wait until all the users have been created. <br />
 ![alt text](https://github.com/bqazi/home_lab_vb/blob/main/images/script_image_2.png) <br />
 
 
